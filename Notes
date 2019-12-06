@@ -1,0 +1,5 @@
+
+/* 
+In ejs <%= Anything here will be displayed in briweser. %>
+     <% this operations will be on server side.  %> 
+*/
